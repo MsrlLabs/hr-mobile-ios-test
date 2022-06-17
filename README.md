@@ -2,12 +2,13 @@
 
 ## Summary
 
-Looking at the design spec [here](https://seekersadvisorshklimited.box.com/s/iut72ehwkwir3uxag00yf1bv89a7yavd), you will see a market watchlist of currency pairings. Your task will be to recreate this screen which will contain some dynamic elements. 
+Looking at the design spec attached, you will see a market watchlist of currency pairings. Your task will be to recreate this screen which will contain some dynamic elements. 
 
 ## Obtaining the data
 
-There are a few options, there is a publically accessible API available [here](https://www.freeforexapi.com/Home/Api) however this has been less reliable recently.
-Alternatively, you can sign up to a brokerage that offers API access such as [Oanda](https://developer.oanda.com/). You should never have to pay any fees for forex pricing data.
+There are a few options:
+- there is a publically accessible API available [here](https://www.freeforexapi.com/Home/Api) however this has been less reliable recently.
+- you can sign up to a brokerage that offers API access such as [Oanda](https://developer.oanda.com/). You should never have to pay any fees for forex pricing data.
  
 ## Specific requirements:
  
