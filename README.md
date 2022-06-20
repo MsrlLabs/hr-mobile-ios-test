@@ -28,5 +28,5 @@ There are a few options:
  
 ## How we will judge the test:
  
-We will evaluate how closely the finished result matches the design. In terms of the code, providing tests, documentation, demonstrating knowledge of non-MVC architecture and error handling, using threading correctly where appropriate and especially correctly leveraging the functional aspects of the swift language are all things that would be considered beneficial. 
+We will evaluate how closely the finished result matches the design. In terms of the code, providing tests, documentation, demonstrating architectural knowledge and error handling, using threading correctly where appropriate and especially correctly leveraging the functional aspects of the swift language are all things that would be considered beneficial. 
  
